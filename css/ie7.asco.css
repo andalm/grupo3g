@@ -1,0 +1,12 @@
+/****************************************************
+			Andres Aldana M
+****************************************************/
+header{height: 10.5em;}
+header > div > *{float: left;}
+hgroup{margin-top: 6em;}
+hr{border-style:hidden;border: none;}
+.vertical-line-header{margin-top: 1.8em;}
+.info > *{float: left;}
+#casco{top: -60px;}
+#social{top: 10px;}
+#section-logo{margin-left: 5.4em;}

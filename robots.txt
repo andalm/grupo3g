@@ -1,0 +1,8 @@
+# robotstxt.org/
+
+User-agent: *
+user-agent: *
+disallow: /css/
+disallow: /img/
+disallow: /js/
+disallow: /doc/
